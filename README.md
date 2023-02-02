@@ -1,4 +1,4 @@
-### Olá! Eu sou o Jean. 👋
+### Olá! Eu sou o Jean. 
 
 - 🔭 Estudo Front-end
 - 🌱 Atualmente estou aprendendo JavaScript e Wordpress.
