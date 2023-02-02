@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jean. 👋
 
-- 🔭 Estudo Front-End
+- 🔭 Estudo Front-end
 - 🌱 Atualmente estou aprendendo JavaScript e Wordpress.
 - 📫 Contate-me no email: jean-t287@hotmail.com.
 ##
