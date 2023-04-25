@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jean. 
 
 - 🔭 Estudo Front-end
-- 🌱 Atualmente estou aprendendo JavaScript e Wordpress.
+- 🌱 Atualmente estou aprendendo Angular e React.
 - 📫 Contate-me no email: jean-t287@hotmail.com.
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-Goncalves&show_icons=true&theme=tokyonight)
