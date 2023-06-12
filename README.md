@@ -15,4 +15,6 @@
   <img align="center" alt="Jean-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jean-Angular" height="30" width="40" 
 src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Jean-React" height="30" width="40" 
+src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
 </div>
